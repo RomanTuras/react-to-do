@@ -1,2 +1,3 @@
-# react-to-do
-Eucational To-Do project using React
+# React To Do
+
+This is educational project on React
